@@ -1,0 +1,16 @@
+{
+  "name": "sound-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.58.0",
+    "osx-volume": "^0.0.1",
+    "osx-volume-controls": "^1.0.1"
+  }
+}
